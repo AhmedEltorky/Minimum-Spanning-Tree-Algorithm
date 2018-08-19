@@ -10,7 +10,7 @@ public class Main {
     private static final int INF = 99;
 
     private static int weight[][] = {
-        // 1  2   3    4    5    6   7
+        //    1  2   3    4    5    6   7
         /*1*/{0, 3, INF, INF, INF, INF, 5},
         /*2*/ {3, 0, 2, INF, INF, INF, 5},
         /*3*/ {INF, 2, 0, 7, 1, 1, 3},
